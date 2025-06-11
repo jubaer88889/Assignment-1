@@ -561,7 +561,6 @@ margin-top: -40px;
 
 
 @media (min-width: 768px) and (max-width: 1080px){
-
     .navbar{ 
 
     div{
@@ -619,13 +618,13 @@ margin-top: -40px;
 
     
     .section1{
-
-        
+        width: 800px;
 
         .part1{
             margin-top: 90px; 
-            width: 90%;
+            width:90%;
             height: 320px;
+            
             
            & h1{
             font-size: 50px;
@@ -663,9 +662,9 @@ margin-top: -40px;
     }
 
     .section2{
-        
+        width: 800px;
         height: 400px;
-        background-size:800px;
+        background-size:750px;
        
        p{
         font-size: 45px;
@@ -780,6 +779,7 @@ margin-top: -40px;
     .section4{
                             height: 550px;
                             margin-top: 80px;
+
                         
                             .part1{
                             margin-left: 10px;
@@ -861,6 +861,8 @@ margin-top: -40px;
 
 .section5{
     height: 350px;
+    width: 800px;
+    
     
     h1{
         font-size: 50px;
@@ -879,6 +881,7 @@ margin-top: -40px;
 }
 
 .section6{
+    width: 800px;
    
     
     div{
@@ -904,6 +907,7 @@ margin-top: -40px;
 
 .footer{
     height: 150px;
+    width: 800px;
    
 
     p{
@@ -948,7 +952,7 @@ margin-top: -40px;
         
             &.sec3{
                 margin-top: 80px ;
-                 margin-left: -350px;
+                 margin-left: -320px;
         
                  .a1 h3{
                     margin-top: 10px;
